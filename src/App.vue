@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import tree from '../../treegrid/dist/'
+import tree from './components/'
 console.log(tree)
 export default {
   name: 'app',
